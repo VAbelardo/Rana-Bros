@@ -155,8 +155,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidadMovimiento: 1
+  fuerzaBrinco: 0
+  mostrarGizmo: 0
+  necesitaDetectarPared: 0
   distanciaVista: 0.15
   alturaVista: -0.03
   queEsPared:
     serializedVersion: 2
     m_Bits: 256
+  necesitaDetectarPiso: 0
+  radioPiso: 0
+  distanciaPiso: 0
+  queEsPiso:
+    serializedVersion: 2
+    m_Bits: 0
